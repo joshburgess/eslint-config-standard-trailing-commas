@@ -4,11 +4,11 @@ A fork of [eslint-config-standard](https://github.com/feross/eslint-config-stand
 
 Why would you want to use this? From the [eslint documentation page for this rule](http://eslint.org/docs/rules/comma-dangle):
 
-> Trailing commas simplify adding and removing items to objects and arrays, since only the lines you are modifying 
-> must be touched. Another argument in favor of trailing commas is that it improves the clarity of diffs when an item 
+> Trailing commas simplify adding and removing items to objects and arrays, since only the lines you are modifying
+> must be touched. Another argument in favor of trailing commas is that it improves the clarity of diffs when an item
 > is added or removed from an object or array
 
-Original Standard shown documentation below:
+Original Standard documentation shown below:
 
 # Standard - ESLint Shareable Config
 [![travis][travis-image]][travis-url]
