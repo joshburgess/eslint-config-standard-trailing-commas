@@ -8,6 +8,12 @@ Why would you want to use this? From the [eslint documentation page for this rul
 > must be touched. Another argument in favor of trailing commas is that it improves the clarity of diffs when an item
 > is added or removed from an object or array
 
+## Install
+
+```bash
+npm install eslint-config-standard-trailing-commas
+```
+
 Original Standard documentation shown below:
 
 # Standard - ESLint Shareable Config
