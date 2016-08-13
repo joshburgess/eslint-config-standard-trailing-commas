@@ -1,6 +1,6 @@
 # Standard Trailing Commas
 
-A fork of (eslint-config-standard)[https://github.com/feross/eslint-config-standard] which enforces the use of trailing (or "dangling") commas in object literals & arrays that span multiple lines.
+A fork of [eslint-config-standard](https://github.com/feross/eslint-config-standard) which enforces the use of trailing, aka dangling, commas in object literals & arrays that span multiple lines.
 
 Why would you want to use this? From the [eslint documentation page for this rule](http://eslint.org/docs/rules/comma-dangle):
 
