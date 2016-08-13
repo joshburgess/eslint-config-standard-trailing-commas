@@ -1,14 +1,19 @@
 {
-  "name": "eslint-config-standard",
+  "name": "eslint-config-standard-trailing-commas",
   "description": "JavaScript Standard Style - ESLint Shareable Config",
   "version": "6.0.0-beta.2",
   "author": {
+    "name": "Josh Burgess",
+    "email": "joshburgess.webdev@gmail.com",
+    "url": "https://twitter.com/@_joshburgess"
+  },
+  "bugs": {
+    "url": "https://github.com/joshburgess/eslint-config-standard-trailing-commas/issues"
+  },
+  "contributors": {
     "name": "Feross Aboukhadijeh",
     "email": "feross@feross.org",
     "url": "http://feross.org/"
-  },
-  "bugs": {
-    "url": "https://github.com/feross/eslint-config-standard/issues"
   },
   "devDependencies": {
     "eslint": "^3.1.1",
@@ -16,7 +21,7 @@
     "eslint-plugin-standard": "^2.0.0",
     "tape": "^4.6.0"
   },
-  "homepage": "https://github.com/feross/eslint-config-standard",
+  "homepage": "https://github.com/joshburgess/eslint-config-standard-trailing-commas",
   "keywords": [
     "JavaScript Standard Style",
     "check",
@@ -26,6 +31,9 @@
     "code linter",
     "code standards",
     "code style",
+    "commas",
+    "dangling",
+    "dangling commas",
     "enforce",
     "eslint",
     "eslintconfig",
@@ -38,9 +46,12 @@
     "simple",
     "standard",
     "standard style",
+    "standard trailing commas",
     "style",
     "style checker",
     "style linter",
+    "trailing",
+    "trailing commas",
     "verify"
   ],
   "license": "MIT",
@@ -52,7 +63,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/feross/eslint-config-standard.git"
+    "url": "git://github.com/joshburgess/eslint-config-standard-trailing-commas.git"
   },
   "scripts": {
     "test": "tape test/*.js"
