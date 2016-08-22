@@ -8,13 +8,31 @@ Why would you want to use this? From the [eslint documentation page for this rul
 > must be touched. Another argument in favor of trailing commas is that it improves the clarity of diffs when an item
 > is added or removed from an object or array
 
-## Install
+## Instructions
+
+First, install the eslint config & required plugins.
 
 ```bash
-npm install eslint-config-standard-trailing-commas
+npm i -D eslint-config-standard-trailing-commas eslint-plugin-standard eslint-plugin-promise
 ```
 
-Original Standard documentation shown below:
+Then, add this to your .eslintrc.json file:
+
+```
+{
+  "extends": "standard"
+}
+```
+
+Or this, if using React:
+
+```
+{
+  "extends": ["standard", "standard-react"]
+}
+```
+
+Original Standard documentation shown below for reference:
 
 # Standard - ESLint Shareable Config
 [![travis][travis-image]][travis-url]
