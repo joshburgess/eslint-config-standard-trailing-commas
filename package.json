@@ -1,7 +1,13 @@
 {
+<<<<<<< HEAD
   "name": "eslint-config-standard-trailing-commas",
   "description": "JavaScript Standard Style with Trailing Commas - ESLint Shareable Config",
   "version": "6.0.0-beta.2.3",
+=======
+  "name": "eslint-config-standard",
+  "description": "JavaScript Standard Style - ESLint Shareable Config",
+  "version": "6.0.0-beta.3",
+>>>>>>> f2a365d7bdc7074d23aed0096677bfb82366fe2e
   "author": {
     "name": "Josh Burgess",
     "email": "joshburgess.webdev@gmail.com",
