@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-standard-trailing-commas",
   "description": "JavaScript Standard Style with Trailing Commas - ESLint Shareable Config",
-  "version": "6.0.0-beta.2.3",
+  "version": "6.0.0-beta.3",
   "author": {
     "name": "Josh Burgess",
     "email": "joshburgess.webdev@gmail.com",
@@ -10,11 +10,13 @@
   "bugs": {
     "url": "https://github.com/joshburgess/eslint-config-standard-trailing-commas/issues"
   },
-  "contributors": {
-    "name": "Feross Aboukhadijeh",
-    "email": "feross@feross.org",
-    "url": "http://feross.org/"
-  },
+  "contributors": [
+    {
+      "name": "Feross Aboukhadijeh",
+      "email": "feross@feross.org",
+      "url": "http://feross.org/"
+    }
+  ],
   "devDependencies": {
     "eslint": "^3.1.1",
     "eslint-plugin-promise": "^2.0.0",
