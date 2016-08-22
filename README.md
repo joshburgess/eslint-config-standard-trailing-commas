@@ -20,7 +20,7 @@ Then, add this to your .eslintrc.json file:
 
 ```
 {
-  "extends": "standard"
+  "extends": "standard-trailing-commas"
 }
 ```
 
@@ -28,7 +28,7 @@ Or this, if using React:
 
 ```
 {
-  "extends": ["standard", "standard-react"]
+  "extends": ["standard-trailing-commas", "standard-react"]
 }
 ```
 
